@@ -1,6 +1,6 @@
 # test-02
-ㄱㅣㅅㅎㅓㅂㅡ ㅅㅏㅇㅛㅇㅂㅓㅂㅇㅡㄹ ㅇㅕㄴㅅㅡㅂㅎㅏㅂㄴㅣㄷㅏ.
+Practice how to use the github.
 
-ㅇㅕㄱㅣㅇㅔ ㅇㅜㅓㄴㅎㅏㄴㅡㄴ ㄴㅐㅇㅛㅇㅇㅡㄹ ㅇㅣㅂㄹㅕㄱㅎㅏㅅㅔㅇㅛ.
+Please input contents you want write here.
 
-ㅈㅏㄱㅅㅓㅇㅎㅏㄴ ㅅㅗㅅㅡㅇㅔ ㄷㅐㅎㅏㄴ ㄱㅏㄴㄷㅏㄴㅎㅏㄴ ㅅㅗㄱㅐㄱㅡㄹㅇㅡㄹ ㅈㅏㄱㅅㅓㅇㅎㅏㅂㄴㅣㄷㅏ.
+Please write simple introduction about your source code.
