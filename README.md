@@ -53,6 +53,8 @@ collaboration
           - b
 - collaboration
 
+* * *
+
 ###### Explore github
 
 Because **github** provide remote repository,
@@ -60,3 +62,17 @@ Because **github** provide remote repository,
 Without *installing* git,
 
 You can control ***version management of git*** in online
+
+> The information manager from hell.
+>> git means "global information tracker."
+
+one line source code `function add(x, y) { return x + yl } `
+
+```javascript
+<script>
+  var now = new Date();
+  var display = new.toLocalTimeString();
+  document.write("Current time is " + display);
+</script>
+```
+end writing code.
