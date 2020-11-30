@@ -1,4 +1,12 @@
 # test-02
+![screen shot code](./Images/code.jpg)
+
+
+
+
+
+
+
 Practice how to use the github.
 
 write contents you want
